@@ -1,3 +1,7 @@
+// basic types
 let id: number = 5;
-id = 6;
-console.log('ID', id);
+let company: string = "Ben Catton"
+let isPublished: boolean = true;
+let x: any = 'Hello'
+let age: number;
+
