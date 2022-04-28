@@ -11,3 +11,14 @@ let arr: any[] = [1, true, 'hi'] // array of any types
 
 //tuples
 let person: [number, string, boolean] = [1, 'Ben', true];
+
+//tupel array
+let employee: [number, string][]
+
+employee = [
+  [1, "Brad"],
+  [2, "Ben"],
+  [3, "Jan"]
+]
+
+//union
